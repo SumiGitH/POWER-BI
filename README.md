@@ -1,6 +1,4 @@
-# POWER-BI
-
-SALES ANALYSIS REPORT
+# POWER-BI - SALES ANALYSIS REPORT
 A detailed analysis of the sale data and its prediction
 DATA - https://docs.google.com/spreadsheets/d/1fduWMyjJVZwg227mCBtqkUyJ5umD78JW/edit?gid=703063997#gid=703063997 
 
